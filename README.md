@@ -9,12 +9,12 @@ a.	To create the repository, click on the Repository tab and click the New butto
 a.	Note: This index.html file can also be created in within your newly created Github repository.
 3.	Add the following code in the index.html file (for a basic header and image):
 a.	Click File > Save or use Command+S to save the index.html file
-
+```
 <html>
   <h1>Jeff's Alternate Portfolio</h1>    
   <img src="./BioPic2.jpeg" />
   </html>
-
+```
 4.	In MacOS finder or Windows explorer, copy a picture (that has the identical filename in your index.html code) into the same folder that you’ve created in VSCode.
 5.	Add these two files to your github repository (Eg. jefejuell.github.io)
 a.	To do this, open the Code tab in your repository and click on the Add file icon and then select Upload files.
