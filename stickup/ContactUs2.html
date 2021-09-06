@@ -2,20 +2,25 @@
     <head>
         <title>StickUp Contact</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+        <link rel="stylesheet" href="styles.css">
     </head>
 
-    <h1><b>StickUp Inc.</b></h1>
+    <header>
+        <img src = "./images/StickUpLogo.jpeg" alt="StickUp Logo" style = "float:right; height:150px; width:150px;margin-right: 300px;">
+    </header>
+
+    <h1 id="company"><b>StickUp Inc.</b></h1>
 
     <body>
         <nav style="font-size:150%">
             <a href="jefejuell.github.io/stickup"><b>HOME</b></a>
             <a href="jefejuell.github.io/stickup/StickUp.html"><b>What We DO</b></a>
-            <a href="jefejuell.github.io/stickup/ContactUs2.html"><b>Contact Us</b></a>
+            <a href="jefejuell.github.io/stickup/ContactUs.html"><b>Contact Us</b></a>
         </nav>
         
-        <h2>Please click the button below to get a no obligation quote!</h2>
+        <br><h2>Please click the button below to get a no obligation quote!</h2>
 
-        <button onclick = "yardQuote()";>Click for a Quote!</button><br>
+        <button onclick = "yardQuote()"; style= "padding:20px; border-radius:10px; font-size: 30px;"><b>Click for a Quote!</b></button><br>
 
         <br><h2>Email our customer service contact with questions or comments:</h2>
             
@@ -30,6 +35,8 @@
             <input type="reset" value="Reset">
         </form>
 
+        <h2><b>Sticks down can be discouraging, but StickUp is here to do the lifting for you!</b></h2>
+    
     <script>
         const yardCost = [
         {serviceLevel: "minor", cost: 10},
@@ -61,8 +68,9 @@
             alert("Thank you for your interest in StickUp's services.  An initial esimate of the job cost is " + cost + ". " + "We will be in touch with you shortly to schedule a consultation.");
           } 
     }
-     </script>
+    </script>
 
     </body>
 
+    <footer><b>Powered by JJDev</b></footer>
 </html>
