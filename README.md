@@ -17,6 +17,26 @@ Additional features will be to have this bus tracker move all the way along Mass
 The project is created under the MIT license.
 
 
+# Eyes Exercise
+<a href="https://jefejuell.github.io/Eyes/"> Eyes Exercise </a>
+
+### **Description:**  
+The eyeballs in these eyes will synchronously follow the mouse pointer wherever it moves.
+
+### **Usage**
+To view Eyes, download all files into a folder and drag the index.html into a web browser.
+
+
+# PacMen (multiple) Exercise
+<a href="https://jefejuell.github.io/PacMen" PacMen Exercise </a>
+
+### **Description:**  
+PacMen should create additonal PacMen when pressing the Add PacMan button.  Upon clicking the Start Game button, the Pacmen will move in random directions at random velocities until they detect a boundary of the webpage, at which point they will bounce off the edge.  Challenge: Try to get the PacMen to move faster.  Of course, motion requires energy, so the PacMen will be eating invisible food as they travel around. 
+
+### **Usage**
+To view PacMen, download all files into a folder and drag the index.html into a web browser.
+
+
 # PacMan
 <a href="http://jefejuell.github.io/PacMan"> PacMan Exercise </a> 
 ## The PacMan project was created for an MIT xPro Web Development course. 
