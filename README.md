@@ -1,3 +1,6 @@
+# Coding Projects
+<a href="http://jefejuell.github.io/pacman"> Pacman Exercise </a> 
+
 # Animated Bus Map
 
 ## The Animated Bus Map project was created for an MIT xPro Web Development course. 
