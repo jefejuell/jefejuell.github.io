@@ -1,5 +1,4 @@
 # Coding Projects
-<a href="http://jefejuell.github.io/PacMan"> PacMan Exercise </a> 
 
 # Animated Bus Map
 
@@ -19,7 +18,7 @@ The project is created under the MIT license.
 
 
 # PacMan
-
+<a href="http://jefejuell.github.io/PacMan"> PacMan Exercise </a> 
 ## The PacMan project was created for an MIT xPro Web Development course. 
   
 ### **Description:**  
