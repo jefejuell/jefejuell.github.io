@@ -28,7 +28,7 @@ To view Eyes, download all files into a folder and drag the index.html into a we
 
 
 # PacMen (multiple) Exercise
-<a href="https://jefejuell.github.io/PacMen" PacMen Exercise </a>
+<a href="https://jefejuell.github.io/PacMen"> PacMen Exercise </a>
 
 ### **Description:**  
 PacMen should create additonal PacMen when pressing the Add PacMan button.  Upon clicking the Start Game button, the Pacmen will move in random directions at random velocities until they detect a boundary of the webpage, at which point they will bounce off the edge.  Challenge: Try to get the PacMen to move faster.  Of course, motion requires energy, so the PacMen will be eating invisible food as they travel around. 
