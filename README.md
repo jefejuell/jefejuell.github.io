@@ -1,5 +1,5 @@
 # Coding Projects
-<a href="http://jefejuell.github.io/pacman.html"> Pacman Exercise </a> 
+<a href="http://jefejuell.github.io/pacman"> Pacman Exercise </a> 
 
 # Animated Bus Map
 
