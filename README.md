@@ -39,6 +39,7 @@ To view PacMen, download all files into a folder and drag the index.html into a 
 
 # PacMan
 <a href="http://jefejuell.github.io/PacMan"> PacMan Exercise </a> 
+
 ## The PacMan project was created for an MIT xPro Web Development course. 
   
 ### **Description:**  
