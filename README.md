@@ -1,6 +1,7 @@
-# Coding Projects
+# Coding Projects:
 
 # Animated Bus Map
+<a href="https://jefejuell.github.io/Animated-Bus-Map/"> Animated Bus Map <a/>
 
 ## The Animated Bus Map project was created for an MIT xPro Web Development course. 
 
