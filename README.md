@@ -6,7 +6,7 @@
 The Contact Us webpage has two interactive features.  One is where a customer clicks a button to get a quote. The other uses a client-side email app to send a message to the company.
 
 ### **Roadmap of future improvements**
-The quote process will save the data submitted by each screen and send it to a location for storage and possibly also to the company.  Layout styles will be improved to make the website more attractive and user-friendly, especially for mobile devices.
+The quote process will save the data submitted by each screen and send it to a location for storage and possibly also to the company.  Layout styles will be improved to make the website more attractive and user-friendly, especially for mobile devices. <br>
 
 
 # Animated Bus Map
@@ -24,7 +24,7 @@ To view Animated Bus Map on your local machine, download the animatedMaps.html, 
 Additional features will be to have this bus tracker move all the way along Mass. Ave. from Harvard to the South End neighborhood in Boston.  It would also be helpful to have addresses of bus stops appear at each bus stop.
 
 ### **License Information**
-The project is created under the MIT license.
+The project is created under the MIT license. <br>
 
 
 # Eyes Exercise
