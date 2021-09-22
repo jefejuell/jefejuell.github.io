@@ -1,5 +1,14 @@
 # Coding Projects:
 
+# Stick Up - Neighborhood business
+
+## The StickUp website pages were created by me to help my daughters earn money in the neighborhood. 
+The Contact Us webpage has two interactive features.  One is where a customer clicks a button to get a quote. The other uses a client-side email app to send a message to the company.
+
+### **Roadmap of future improvements**
+The quote process will save the data submitted by each screen and send it to a location for storage and possibly also to the company.  Layout styles will be improved to make the website more attractive and user-friendly, especially for mobile devices.
+
+
 # Animated Bus Map
 <a href="https://jefejuell.github.io/Animated-Bus-Map/"> Animated Bus Map <a/>
 
