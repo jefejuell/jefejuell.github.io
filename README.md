@@ -8,7 +8,6 @@ The Contact Us webpage has two interactive features.  One is where a customer cl
 ### **Roadmap of future improvements**
 The quote process will save the data submitted by each screen and send it to a location for storage and possibly also to the company.  Layout styles will be improved to make the website more attractive and user-friendly, especially for mobile devices. <br><br>
 
-
 # Animated Bus Map
 <a href="https://jefejuell.github.io/Animated-Bus-Map/"> Animated Bus Map <a/>
 
@@ -24,8 +23,7 @@ To view Animated Bus Map on your local machine, download the animatedMaps.html, 
 Additional features will be to have this bus tracker move all the way along Mass. Ave. from Harvard to the South End neighborhood in Boston.  It would also be helpful to have addresses of bus stops appear at each bus stop.
 
 ### **License Information**
-The project is created under the MIT license. <br>
-
+The project is created under the MIT license. <br><br>
 
 # Eyes Exercise
 <a href="https://jefejuell.github.io/Eyes/"> Eyes Exercise </a>
@@ -40,8 +38,7 @@ To view Eyes, download all files into a folder and drag the index.html into a we
 Additional features will be to have the eyes have additional styling, as well as an event viewer that interacts with users when a certain screen location is reached.
 
 ### **License Information**
-The project is created under the MIT license.
-
+The project is created under the MIT license.<br><br>
 
 # PacMen (multiple) Exercise
 <a href="https://jefejuell.github.io/PacMen"> PacMen Exercise </a>
@@ -56,9 +53,8 @@ To view PacMen, download all files into a folder and drag the index.html into a 
 Additional features will be to modify the Start Game button so that it doesn't also act as an accelerator.  It will also be important to get the PacMen able to move normally if the viewing screen is resized (currently some can get stuck near the edges).
   
 ### **License Information**
-The project is created under the MIT license.
+The project is created under the MIT license.<br><br>
   
-
 # PacMan
 <a href="http://jefejuell.github.io/PacMan"> PacMan Exercise </a> 
 
