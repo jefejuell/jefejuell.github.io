@@ -4,6 +4,10 @@ body {
     background-color: lightblue;
 }
 
+p {
+    font-size: 150%;
+}
+
 .links {
     font-size: 150%;
 }
