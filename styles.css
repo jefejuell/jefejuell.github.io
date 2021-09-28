@@ -2,6 +2,10 @@ body {
     background-color: lightblue;
 }
 
+nav {
+    font-size:150%
+}
+
 .links {
-    font-size: 150%;
+    font-size: 130%;
 }
