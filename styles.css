@@ -13,12 +13,12 @@ nav {
 
 .container {
     padding: 10px;
-    font-size: 15px;
+    font-size: 20px;
     height: 400px;
     max-width: auto;  
     background: lightblue;  
     display: grid;
-    grid-template-columns: 30% 70%;
+    grid-template-columns: 20% 80%;
     grid-gap: 10px;
     text-align: left;
 }
