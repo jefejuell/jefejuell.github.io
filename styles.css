@@ -14,7 +14,7 @@ nav {
 .container {
     padding: 10px;
     font-size: 15px;
-    height: 400px;
+    height: 300px;
     max-width: auto;  
     background: lightblue;  
     display: grid;
