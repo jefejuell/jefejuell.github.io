@@ -20,4 +20,5 @@ nav {
     grid-template-columns: 20% 80%;
     grid-gap: 10px;
     text-align: left;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
