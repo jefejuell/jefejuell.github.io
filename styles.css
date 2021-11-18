@@ -3,6 +3,11 @@ body {
     padding: 20px;
 }
 
+header {
+    color: navy;
+    text-align: center;
+}
+    
 nav {
     font-size:150%
 }
@@ -15,7 +20,7 @@ nav {
     padding: 10px;
     height: auto;
     max-width: auto;  
-    background: lightblue;  
+    background: lightskyblue;  
     display: grid;
     grid-template-columns: 20% 80%;
     grid-gap: 10px;
